@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding 0px;
+	margin 0px;
+background-image : url('wedding.jpg');
+   background-size:100%;
+        }
+#page_links{
+margin-top:200px;
+}
+.circle div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1.5px solid #fff;
+    font-family: Cambria;
+    font-size: 20px;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    background: #FF8080;
+	display:inline-block;
+	margin:20px;
+	
+}
+
+.circle div:hover {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    background: ##FF8080;
+    filter:grayscale(20%);
+}
+#login_form{
+    margin-top:150px;
+}
+ 
+

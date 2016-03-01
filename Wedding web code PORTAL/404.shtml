@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> 404 ERROR PAGE</title>
+		<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	</head>
+	<body>
+	<div class="container">
+	<div class="jumbotron" style="margin-top:00px;">
+	  <center class="alert alert-info">
+	  	<div class="alert alert-primary"><h2> Sorry !!!! This Page Doesnot Exist</h2>
+	  	</div>
+	  	<img height="50%" width="70%" src="http://www.wedding.eventassociate.com/404theme.jpg" alt="404 error image"/>
+	   	
+	   	<br/> <br/>
+	   	<a href="http://www.wedding.eventassociate.com/connectivity.php">Go to Home Page </a>
+	   	
+	  </center>
+	  </div>
+	  </div>
+	</body>
+</html>
